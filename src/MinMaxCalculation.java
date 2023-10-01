@@ -1,5 +1,6 @@
 import java.util.*;
 
+
 public class MinMaxCalculation{
 
     // Store all collected numbers
